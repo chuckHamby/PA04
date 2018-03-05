@@ -1,0 +1,10 @@
+United States English 323100000
+UK English 65640000
+Norway Norweigan 5233000
+Sweden Swedish 9903000
+France French 66900000
+Spain Spanish 46160000
+Germany German 82670000
+Russia Russian 144300000
+Japan Japanese 127000000
+Austrailia English 24130000
